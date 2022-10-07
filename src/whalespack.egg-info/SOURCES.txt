@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/whalespack/__init__.py
+src/whalespack/hello.py
+src/whalespack.egg-info/PKG-INFO
+src/whalespack.egg-info/SOURCES.txt
+src/whalespack.egg-info/dependency_links.txt
+src/whalespack.egg-info/top_level.txt
